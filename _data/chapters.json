@@ -1017,7 +1017,12 @@
         "organizers": [
           {
             "name": "Sam Matthews",
-            "twitter": ""
+            "twitter": "vancematthews"
+          },
+          {
+            "name": "Andrew Powers",
+            "twitter": "p0wersa"
+          }
           }
         ],
         "meetup": "http://www.meetup.com/MaptimeSEA/"
